@@ -1,0 +1,474 @@
+company_id,company_name,type,rule_triggered,text,confidence_pct
+ABB,Abbott India Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 32.5%.,95
+ABB,Abbott India Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.02x.,90
+ABB,Abbott India Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,095 Cr.",90
+ABB,Abbott India Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 21.7% over 5 years.,90
+ABB,Abbott India Ltd,pro,High Margins,Enjoys robust net profit margin of 20.5%.,85
+ABB,Abbott India Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+ABB,Abbott India Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+ABB,Abbott India Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+ADANIENSOL,Adani Energy Solutions Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,095 Cr.",90
+ADANIENSOL,Adani Energy Solutions Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 17.9%.,85
+ADANIENSOL,Adani Energy Solutions Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+ADANIENSOL,Adani Energy Solutions Ltd,con,High Debt,Elevated debt-to-equity ratio of 2.93x exceeds safe threshold.,95
+ADANIENSOL,Adani Energy Solutions Ltd,con,Subdued ROE,Return on equity of 9.5% is below cost of capital.,85
+ADANIENT,Adani Enterprises Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 19.0%.,85
+ADANIENT,Adani Enterprises Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 45.8% over 5 years.,90
+ADANIENT,Adani Enterprises Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+ADANIENT,Adani Enterprises Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.67x requires monitoring.,80
+ADANIENT,Adani Enterprises Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-8,455 Cr.",90
+ADANIENT,Adani Enterprises Ltd,con,Subdued ROE,Return on equity of 8.5% is below cost of capital.,85
+ADANIENT,Adani Enterprises Ltd,con,Thin Margins,"Net profit margin is low at 3.5%, vulnerable to cost pressures.",85
+ADANIGREEN,Adani Green Energy Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 35.0%.,85
+ADANIGREEN,Adani Green Energy Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+ADANIGREEN,Adani Green Energy Ltd,con,High Debt,Elevated debt-to-equity ratio of 6.60x exceeds safe threshold.,95
+ADANIGREEN,Adani Green Energy Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-13,347 Cr.",90
+ADANIGREEN,Adani Green Energy Ltd,con,Weak Interest Coverage,Interest coverage ratio of 1.7x indicates debt servicing strain.,90
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,pro,Healthy ROE,Consistent profitability with ROE of 15.3%.,85
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹8,250 Cr.",90
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 19.6%.,85
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,pro,High Margins,Enjoys robust net profit margin of 30.3%.,85
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+ADANIPOWER,Adani Power Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 48.3%.,95
+ADANIPOWER,Adani Power Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹17,651 Cr.",90
+ADANIPOWER,Adani Power Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 16.1%.,85
+ADANIPOWER,Adani Power Ltd,pro,High Margins,Enjoys robust net profit margin of 41.4%.,85
+ADANIPOWER,Adani Power Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+AMBUJACEM,Ambuja Cements Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.02x.,90
+AMBUJACEM,Ambuja Cements Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+AMBUJACEM,Ambuja Cements Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+AMBUJACEM,Ambuja Cements Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-3,295 Cr.",90
+AMBUJACEM,Ambuja Cements Ltd,con,Muted Topline Growth,5-year revenue CAGR is sluggish at 5.0%.,80
+APOLLOHOSP,Apollo Hospitals Chain of Indian private hospitals,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+APOLLOHOSP,Apollo Hospitals Chain of Indian private hospitals,pro,Rapid Earnings Compounding,Compounded profit after tax at 36.1% over 5 years.,90
+APOLLOHOSP,Apollo Hospitals Chain of Indian private hospitals,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+APOLLOHOSP,Apollo Hospitals Chain of Indian private hospitals,con,Thin Margins,"Net profit margin is low at 4.9%, vulnerable to cost pressures.",85
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,pro,ROE > 20%,Company has delivered outstanding return on equity of 29.7%.,95
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,pro,Low Leverage,Conservative capital structure with D/E of 0.13x.,90
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹3,556 Cr.",90
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,pro,Rapid Earnings Compounding,Compounded profit after tax at 20.3% over 5 years.,90
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+ATGL,Adani Total Gas Ltd,pro,Healthy ROE,Consistent profitability with ROE of 18.7%.,85
+ATGL,Adani Total Gas Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 21.1%.,85
+ATGL,Adani Total Gas Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 23.9% over 5 years.,90
+ATGL,Adani Total Gas Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+ATGL,Adani Total Gas Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+AXISBANK,Axis Bank Ltd,pro,Healthy ROE,Consistent profitability with ROE of 15.8%.,85
+AXISBANK,Axis Bank Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 39.7% over 5 years.,90
+AXISBANK,Axis Bank Ltd,pro,High Margins,Enjoys robust net profit margin of 22.7%.,85
+AXISBANK,Axis Bank Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-14,556 Cr.",90
+BAJAJ-AUTO,Bajaj Auto Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 26.6%.,95
+BAJAJ-AUTO,Bajaj Auto Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.07x.,90
+BAJAJ-AUTO,Bajaj Auto Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹6,486 Cr.",90
+BAJAJ-AUTO,Bajaj Auto Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+BAJAJ-AUTO,Bajaj Auto Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+BAJAJFINSV,Bajaj Finserv Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 25.9%.,95
+BAJAJFINSV,Bajaj Finserv Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 21.0%.,85
+BAJAJFINSV,Bajaj Finserv Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 23.8% over 5 years.,90
+BAJAJFINSV,Bajaj Finserv Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-79,634 Cr.",90
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,469 Cr.",90
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 31.6%.,85
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,pro,High Margins,Enjoys robust net profit margin of 432.7%.,85
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,con,Accrual Risk,"Operating cash flow is less than half of net profit, indicating working capital lockup.",80
+BAJFINANCE,Bajaj Finance Ltd,pro,Healthy ROE,Consistent profitability with ROE of 18.8%.,85
+BAJFINANCE,Bajaj Finance Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 24.4%.,85
+BAJFINANCE,Bajaj Finance Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 29.3% over 5 years.,90
+BAJFINANCE,Bajaj Finance Ltd,pro,High Margins,Enjoys robust net profit margin of 26.3%.,85
+BAJFINANCE,Bajaj Finance Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+BAJFINANCE,Bajaj Finance Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-79,931 Cr.",90
+BANKBARODA,Bank of Baroda,pro,Healthy ROE,Consistent profitability with ROE of 15.8%.,85
+BANKBARODA,Bank of Baroda,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 17.5%.,85
+BANKBARODA,Bank of Baroda,pro,Rapid Earnings Compounding,Compounded profit after tax at 74.5% over 5 years.,90
+BANKBARODA,Bank of Baroda,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-7,559 Cr.",90
+BEL,Bharat Electronics Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 4744.1%.,95
+BEL,Bharat Electronics Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+BEL,Bharat Electronics Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+BEL,Bharat Electronics Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-1,265 Cr.",90
+BHARTIARTL,Bharti Airtel Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹27,809 Cr.",90
+BHARTIARTL,Bharti Airtel Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 38.4% over 5 years.,90
+BHARTIARTL,Bharti Airtel Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+BHARTIARTL,Bharti Airtel Ltd,con,High Debt,Elevated debt-to-equity ratio of 2.61x exceeds safe threshold.,95
+BHEL,Bharat Heavy Electricals Limited,pro,Established Market Leader,Constituent of Nifty 100 index in Industrials sector.,75
+BHEL,Bharat Heavy Electricals Limited,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-2,382 Cr.",90
+BHEL,Bharat Heavy Electricals Limited,con,Subdued ROE,Return on equity of 1.1% is below cost of capital.,85
+BHEL,Bharat Heavy Electricals Limited,con,Muted Topline Growth,5-year revenue CAGR is sluggish at -4.7%.,80
+BHEL,Bharat Heavy Electricals Limited,con,Thin Margins,"Net profit margin is low at 1.2%, vulnerable to cost pressures.",85
+BHEL,Bharat Heavy Electricals Limited,con,Weak Interest Coverage,Interest coverage ratio of 1.6x indicates debt servicing strain.,90
+BOSCHLTD,Bosch Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 20.6%.,95
+BOSCHLTD,Bosch Ltd,pro,Debt Free,Company is virtually debt-free with zero borrowings.,95
+BOSCHLTD,Bosch Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,536 Cr.",90
+BOSCHLTD,Bosch Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+BOSCHLTD,Bosch Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+BPCL,Bharat Petroleum Corporation Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 35.5%.,95
+BPCL,Bharat Petroleum Corporation Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹25,415 Cr.",90
+BPCL,Bharat Petroleum Corporation Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 25.8% over 5 years.,90
+BPCL,Bharat Petroleum Corporation Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+BPCL,Bharat Petroleum Corporation Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+BPCL,Bharat Petroleum Corporation Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+BRITANNIA,Britannia Industries Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 54.1%.,95
+BRITANNIA,Britannia Industries Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹3,050 Cr.",90
+BRITANNIA,Britannia Industries Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+BRITANNIA,Britannia Industries Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+BRITANNIA,Britannia Industries Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+CANBK,Canara Bank,pro,Healthy ROE,Consistent profitability with ROE of 16.7%.,85
+CANBK,Canara Bank,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹13,296 Cr.",90
+CANBK,Canara Bank,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 18.2%.,85
+CANBK,Canara Bank,pro,Rapid Earnings Compounding,Compounded profit after tax at 85.8% over 5 years.,90
+CANBK,Canara Bank,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,pro,Healthy ROE,Consistent profitability with ROE of 17.5%.,85
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 21.9%.,85
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 23.4% over 5 years.,90
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-38,538 Cr.",90
+CIPLA,Cipla Ltd,pro,Healthy ROE,Consistent profitability with ROE of 15.6%.,85
+CIPLA,Cipla Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.02x.,90
+CIPLA,Cipla Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,152 Cr.",90
+CIPLA,Cipla Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 22.7% over 5 years.,90
+CIPLA,Cipla Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+CIPLA,Cipla Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+CIPLA,Cipla Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+COALINDIA,Coal India Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 45.2%.,95
+COALINDIA,Coal India Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.08x.,90
+COALINDIA,Coal India Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹13,617 Cr.",90
+COALINDIA,Coal India Ltd,pro,High Margins,Enjoys robust net profit margin of 26.3%.,85
+COALINDIA,Coal India Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+COALINDIA,Coal India Ltd,con,Accrual Risk,"Operating cash flow is less than half of net profit, indicating working capital lockup.",80
+DABUR,Dabur India Ltd,pro,Healthy ROE,Consistent profitability with ROE of 18.4%.,85
+DABUR,Dabur India Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.14x.,90
+DABUR,Dabur India Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,042 Cr.",90
+DABUR,Dabur India Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+DABUR,Dabur India Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+DABUR,Dabur India Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+DIVISLAB,Divis Laboratories Ltd,pro,Debt Free,Company is virtually debt-free with zero borrowings.,95
+DIVISLAB,Divis Laboratories Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+DIVISLAB,Divis Laboratories Ltd,pro,High Margins,Enjoys robust net profit margin of 20.4%.,85
+DIVISLAB,Divis Laboratories Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+DIVISLAB,Divis Laboratories Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+DLF,DLF Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.12x.,90
+DLF,DLF Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,010 Cr.",90
+DLF,DLF Ltd,pro,High Margins,Enjoys robust net profit margin of 42.4%.,85
+DLF,DLF Ltd,con,Subdued ROE,Return on equity of 6.9% is below cost of capital.,85
+DLF,DLF Ltd,con,Muted Topline Growth,5-year revenue CAGR is sluggish at -5.1%.,80
+DMART,Avenue Supermarts Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.03x.,90
+DMART,Avenue Supermarts Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+DMART,Avenue Supermarts Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 20.5%.,85
+DMART,Avenue Supermarts Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 23.0% over 5 years.,90
+DMART,Avenue Supermarts Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+DMART,Avenue Supermarts Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+DMART,Avenue Supermarts Ltd,con,Thin Margins,"Net profit margin is low at 5.0%, vulnerable to cost pressures.",85
+DRREDDY,Dr Reddys Laboratories Ltd,pro,Healthy ROE,Consistent profitability with ROE of 19.7%.,85
+DRREDDY,Dr Reddys Laboratories Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.07x.,90
+DRREDDY,Dr Reddys Laboratories Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+DRREDDY,Dr Reddys Laboratories Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 23.4% over 5 years.,90
+DRREDDY,Dr Reddys Laboratories Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+DRREDDY,Dr Reddys Laboratories Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+EICHERMOT,Eicher Motors Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 22.2%.,95
+EICHERMOT,Eicher Motors Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.02x.,90
+EICHERMOT,Eicher Motors Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+EICHERMOT,Eicher Motors Ltd,pro,High Margins,Enjoys robust net profit margin of 24.2%.,85
+EICHERMOT,Eicher Motors Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+EICHERMOT,Eicher Motors Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+GAIL,GAIL (India) Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.28x.,90
+GAIL,GAIL (India) Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹4,360 Cr.",90
+GAIL,GAIL (India) Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+GAIL,GAIL (India) Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+GAIL,GAIL (India) Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+GODREJCP,Godrej Consumer Products Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.26x.,90
+GODREJCP,Godrej Consumer Products Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-1,365 Cr.",90
+GODREJCP,Godrej Consumer Products Ltd,con,Operating Losses,Negative return on equity due to operational losses.,95
+GODREJCP,Godrej Consumer Products Ltd,con,Thin Margins,"Net profit margin is low at -4.0%, vulnerable to cost pressures.",85
+GRASIM,Grasim Industries Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 29.3% over 5 years.,90
+GRASIM,Grasim Industries Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.55x requires monitoring.,80
+GRASIM,Grasim Industries Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-33,833 Cr.",90
+HAL,Hindustan Aeronautics Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 3816.6%.,95
+HAL,Hindustan Aeronautics Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,814 Cr.",90
+HAL,Hindustan Aeronautics Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 26.5% over 5 years.,90
+HAL,Hindustan Aeronautics Ltd,pro,High Margins,Enjoys robust net profit margin of 25.0%.,85
+HAL,Hindustan Aeronautics Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+HAL,Hindustan Aeronautics Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+HAL,Hindustan Aeronautics Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+HAVELLS,Havells India Ltd,pro,Healthy ROE,Consistent profitability with ROE of 17.1%.,85
+HAVELLS,Havells India Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.04x.,90
+HAVELLS,Havells India Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+HAVELLS,Havells India Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+HAVELLS,Havells India Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+HAVELLS,Havells India Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+HCLTECH,HCL Technologies Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 23.0%.,95
+HCLTECH,HCL Technologies Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.08x.,90
+HCLTECH,HCL Technologies Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹15,840 Cr.",90
+HCLTECH,HCL Technologies Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+HCLTECH,HCL Technologies Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+HCLTECH,HCL Technologies Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+HDFCBANK,HDFC Bank Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹35,669 Cr.",90
+HDFCBANK,HDFC Bank Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 21.9%.,85
+HDFCBANK,HDFC Bank Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 23.9% over 5 years.,90
+HDFCBANK,HDFC Bank Ltd,pro,High Margins,Enjoys robust net profit margin of 23.1%.,85
+HDFCBANK,HDFC Bank Ltd,con,Accrual Risk,"Operating cash flow is less than half of net profit, indicating working capital lockup.",80
+HDFCLIFE,HDFC Life Insurance Company Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 21.2%.,85
+HDFCLIFE,HDFC Life Insurance Company Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+HDFCLIFE,HDFC Life Insurance Company Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+HDFCLIFE,HDFC Life Insurance Company Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-2,893 Cr.",90
+HDFCLIFE,HDFC Life Insurance Company Ltd,con,Thin Margins,"Net profit margin is low at 1.6%, vulnerable to cost pressures.",85
+HEROMOTOCO,Hero MotoCorp Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 21.1%.,95
+HEROMOTOCO,Hero MotoCorp Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.03x.,90
+HEROMOTOCO,Hero MotoCorp Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹3,095 Cr.",90
+HEROMOTOCO,Hero MotoCorp Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+HEROMOTOCO,Hero MotoCorp Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+HEROMOTOCO,Hero MotoCorp Ltd,con,Muted Topline Growth,5-year revenue CAGR is sluggish at 2.1%.,80
+HINDALCO,Hindalco Industries Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹9,789 Cr.",90
+HINDALCO,Hindalco Industries Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+HINDALCO,Hindalco Industries Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+HINDALCO,Hindalco Industries Ltd,con,Subdued ROE,Return on equity of 9.6% is below cost of capital.,85
+HINDALCO,Hindalco Industries Ltd,con,Thin Margins,"Net profit margin is low at 4.7%, vulnerable to cost pressures.",85
+HINDUNILVR,Hindustan Unilever Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 20.1%.,95
+HINDUNILVR,Hindustan Unilever Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.03x.,90
+HINDUNILVR,Hindustan Unilever Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹10,145 Cr.",90
+HINDUNILVR,Hindustan Unilever Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+HINDUNILVR,Hindustan Unilever Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+HINDUNILVR,Hindustan Unilever Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+ICICIBANK,ICICI Bank Ltd,pro,Healthy ROE,Consistent profitability with ROE of 18.0%.,85
+ICICIBANK,ICICI Bank Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹12,547 Cr.",90
+ICICIBANK,ICICI Bank Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 17.2%.,85
+ICICIBANK,ICICI Bank Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 52.0% over 5 years.,90
+ICICIBANK,ICICI Bank Ltd,pro,High Margins,Enjoys robust net profit margin of 28.9%.,85
+ICICIBANK,ICICI Bank Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+ICICIBANK,ICICI Bank Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+ICICIGI,ICICI Lombard General Insurance Company Ltd,pro,Healthy ROE,Consistent profitability with ROE of 15.7%.,85
+ICICIGI,ICICI Lombard General Insurance Company Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+ICICIGI,ICICI Lombard General Insurance Company Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+ICICIGI,ICICI Lombard General Insurance Company Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+ICICIGI,ICICI Lombard General Insurance Company Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 16.9%.,85
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,con,Subdued ROE,Return on equity of 7.7% is below cost of capital.,85
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,con,Thin Margins,"Net profit margin is low at 0.9%, vulnerable to cost pressures.",85
+INDIGO,Interglobe Aviation Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 892.6%.,95
+INDIGO,Interglobe Aviation Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.02x.,90
+INDIGO,Interglobe Aviation Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹9,424 Cr.",90
+INDIGO,Interglobe Aviation Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 19.3%.,85
+INDIGO,Interglobe Aviation Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 120.7% over 5 years.,90
+INDIGO,Interglobe Aviation Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+INDIGO,Interglobe Aviation Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+INDIGO,Interglobe Aviation Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+INDUSINDBK,IndusInd Bank Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 15.5%.,85
+INDUSINDBK,IndusInd Bank Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 22.1% over 5 years.,90
+INDUSINDBK,IndusInd Bank Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-17,468 Cr.",90
+INFY,Infosys Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 29.8%.,95
+INFY,Infosys Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.09x.,90
+INFY,Infosys Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹20,117 Cr.",90
+INFY,Infosys Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+INFY,Infosys Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+IOC,Indian Oil Corporation,pro,ROE > 20%,Company has delivered outstanding return on equity of 23.5%.,95
+IOC,Indian Oil Corporation,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹39,635 Cr.",90
+IOC,Indian Oil Corporation,pro,Rapid Earnings Compounding,Compounded profit after tax at 20.1% over 5 years.,90
+IOC,Indian Oil Corporation,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+IOC,Indian Oil Corporation,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+IOC,Indian Oil Corporation,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 34.4%.,95
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.02x.,90
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 18.0%.,85
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 29.2% over 5 years.,90
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,pro,High Margins,Enjoys robust net profit margin of 26.0%.,85
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+IRFC,Indian Railway Finance Corporation Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹7,906 Cr.",90
+IRFC,Indian Railway Finance Corporation Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 19.1%.,85
+IRFC,Indian Railway Finance Corporation Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 23.2% over 5 years.,90
+IRFC,Indian Railway Finance Corporation Ltd,pro,High Margins,Enjoys robust net profit margin of 24.1%.,85
+IRFC,Indian Railway Finance Corporation Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+IRFC,Indian Railway Finance Corporation Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+ITC,ITC Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 27.9%.,95
+ITC,ITC Ltd,pro,Debt Free,Company is virtually debt-free with zero borrowings.,95
+ITC,ITC Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹18,742 Cr.",90
+ITC,ITC Ltd,pro,High Margins,Enjoys robust net profit margin of 29.3%.,85
+ITC,ITC Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+ITC,ITC Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+JINDALSTEL,Jindal Steel & Power Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+JINDALSTEL,Jindal Steel & Power Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-2,336 Cr.",90
+JINDALSTEL,Jindal Steel & Power Ltd,con,Muted Topline Growth,5-year revenue CAGR is sluggish at 1.4%.,80
+JIOFIN,Jio Financial Services Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+JIOFIN,Jio Financial Services Ltd,pro,High Margins,Enjoys robust net profit margin of 86.5%.,85
+JIOFIN,Jio Financial Services Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+JIOFIN,Jio Financial Services Ltd,con,Subdued ROE,Return on equity of 1.1% is below cost of capital.,85
+JSWENERGY,JSW Energy Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 20.3% over 5 years.,90
+JSWENERGY,JSW Energy Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+JSWENERGY,JSW Energy Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.52x requires monitoring.,80
+JSWENERGY,JSW Energy Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-1,963 Cr.",90
+JSWENERGY,JSW Energy Ltd,con,Subdued ROE,Return on equity of 8.3% is below cost of capital.,85
+JSWENERGY,JSW Energy Ltd,con,Muted Topline Growth,5-year revenue CAGR is sluggish at 4.7%.,80
+JSWSTEEL,JSW Steel Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 15.6%.,85
+JSWSTEEL,JSW Steel Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+JSWSTEEL,JSW Steel Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.13x requires monitoring.,80
+JSWSTEEL,JSW Steel Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-2,389 Cr.",90
+KOTAKBANK,Kotak Mahindra Bank Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹6,766 Cr.",90
+KOTAKBANK,Kotak Mahindra Bank Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 20.4% over 5 years.,90
+KOTAKBANK,Kotak Mahindra Bank Ltd,pro,High Margins,Enjoys robust net profit margin of 32.4%.,85
+KOTAKBANK,Kotak Mahindra Bank Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+LICI,Life Insurance Corporation of India,pro,ROE > 20%,Company has delivered outstanding return on equity of 49.5%.,95
+LICI,Life Insurance Corporation of India,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+LICI,Life Insurance Corporation of India,pro,Rapid Earnings Compounding,Compounded profit after tax at 73.2% over 5 years.,90
+LICI,Life Insurance Corporation of India,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+LICI,Life Insurance Corporation of India,con,Thin Margins,"Net profit margin is low at 4.8%, vulnerable to cost pressures.",85
+LODHA,Macrotech Developers Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+LODHA,Macrotech Developers Ltd,con,Negative Free Cash Flow,Free cash flow is currently negative at ₹-435 Cr.,90
+LODHA,Macrotech Developers Ltd,con,Subdued ROE,Return on equity of 8.9% is below cost of capital.,85
+LODHA,Macrotech Developers Ltd,con,Muted Topline Growth,5-year revenue CAGR is sluggish at -2.8%.,80
+LT,Larsen & Toubro Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 77.7%.,95
+LT,Larsen & Toubro Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.10x.,90
+LT,Larsen & Toubro Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹20,445 Cr.",90
+LT,Larsen & Toubro Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+LT,Larsen & Toubro Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+LTIM,LTIMindtree Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 22.9%.,95
+LTIM,LTIMindtree Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.10x.,90
+LTIM,LTIMindtree Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,752 Cr.",90
+LTIM,LTIMindtree Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 30.3%.,85
+LTIM,LTIMindtree Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 24.8% over 5 years.,90
+LTIM,LTIMindtree Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+LTIM,LTIMindtree Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+LTIM,LTIMindtree Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+M&M,Mahindra & Mahindra Ltd,pro,Healthy ROE,Consistent profitability with ROE of 18.5%.,85
+M&M,Mahindra & Mahindra Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.64x requires monitoring.,80
+M&M,Mahindra & Mahindra Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-11,245 Cr.",90
+MARUTI,Maruti Suzuki India Ltd,pro,Healthy ROE,Consistent profitability with ROE of 15.8%.,85
+MARUTI,Maruti Suzuki India Ltd,pro,Debt Free,Company is virtually debt-free with zero borrowings.,95
+MARUTI,Maruti Suzuki India Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹4,936 Cr.",90
+MARUTI,Maruti Suzuki India Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+MARUTI,Maruti Suzuki India Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+MARUTI,Maruti Suzuki India Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+MOTHERSON,Samvardhana Motherson International Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+MOTHERSON,Samvardhana Motherson International Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+MOTHERSON,Samvardhana Motherson International Ltd,con,Thin Margins,"Net profit margin is low at 3.1%, vulnerable to cost pressures.",85
+NAUKRI,Info Edge (India) Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.01x.,90
+NAUKRI,Info Edge (India) Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 17.1%.,85
+NAUKRI,Info Edge (India) Ltd,pro,High Margins,Enjoys robust net profit margin of 23.5%.,85
+NAUKRI,Info Edge (India) Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+NAUKRI,Info Edge (India) Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+NAUKRI,Info Edge (India) Ltd,con,Negative Free Cash Flow,Free cash flow is currently negative at ₹-150 Cr.,90
+NAUKRI,Info Edge (India) Ltd,con,Subdued ROE,Return on equity of 2.0% is below cost of capital.,85
+NESTLEIND,Nestle India Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 117.8%.,95
+NESTLEIND,Nestle India Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.10x.,90
+NESTLEIND,Nestle India Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹2,938 Cr.",90
+NESTLEIND,Nestle India Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+NESTLEIND,Nestle India Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+NESTLEIND,Nestle India Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+NHPC,NHPC Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+NHPC,NHPC Ltd,pro,High Margins,Enjoys robust net profit margin of 41.8%.,85
+NHPC,NHPC Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+NHPC,NHPC Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+NHPC,NHPC Ltd,con,Muted Topline Growth,5-year revenue CAGR is sluggish at 1.4%.,80
+NTPC,NTPC Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹8,644 Cr.",90
+NTPC,NTPC Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+NTPC,NTPC Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.48x requires monitoring.,80
+ONGC,Oil & Natural Gas Corpn Ltd,pro,Healthy ROE,Consistent profitability with ROE of 16.9%.,85
+ONGC,Oil & Natural Gas Corpn Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹42,060 Cr.",90
+ONGC,Oil & Natural Gas Corpn Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+ONGC,Oil & Natural Gas Corpn Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+ONGC,Oil & Natural Gas Corpn Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+PFC,Power Finance Corporation Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 26.2%.,95
+PFC,Power Finance Corporation Ltd,pro,High Margins,Enjoys robust net profit margin of 28.9%.,85
+PFC,Power Finance Corporation Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-101,229 Cr.",90
+PIDILITIND,Pidilite Industries Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 20.8%.,95
+PIDILITIND,Pidilite Industries Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.05x.,90
+PIDILITIND,Pidilite Industries Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+PIDILITIND,Pidilite Industries Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+PIDILITIND,Pidilite Industries Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+PIDILITIND,Pidilite Industries Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+PNB,Punjab National Bank,pro,ROE > 20%,Company has delivered outstanding return on equity of 61.3%.,95
+PNB,Punjab National Bank,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 15.9%.,85
+PNB,Punjab National Bank,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-29,445 Cr.",90
+POWERGRID,Power Grid Corporation of India Ltd,pro,Healthy ROE,Consistent profitability with ROE of 17.9%.,85
+POWERGRID,Power Grid Corporation of India Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹24,176 Cr.",90
+POWERGRID,Power Grid Corporation of India Ltd,pro,High Margins,Enjoys robust net profit margin of 34.0%.,85
+POWERGRID,Power Grid Corporation of India Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+POWERGRID,Power Grid Corporation of India Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.42x requires monitoring.,80
+RECLTD,REC Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 20.4%.,95
+RECLTD,REC Ltd,pro,High Margins,Enjoys robust net profit margin of 29.8%.,85
+RECLTD,REC Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-59,554 Cr.",90
+RELIANCE,Reliance Industries Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹45,207 Cr.",90
+RELIANCE,Reliance Industries Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+RELIANCE,Reliance Industries Ltd,con,Subdued ROE,Return on equity of 10.0% is below cost of capital.,85
+SBILIFE,SBI Life Insurance Company Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 24.2%.,85
+SBILIFE,SBI Life Insurance Company Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+SBILIFE,SBI Life Insurance Company Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+SBILIFE,SBI Life Insurance Company Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-2,099 Cr.",90
+SBILIFE,SBI Life Insurance Company Ltd,con,Thin Margins,"Net profit margin is low at 1.4%, vulnerable to cost pressures.",85
+SBIN,State Bank of India,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹18,156 Cr.",90
+SBIN,State Bank of India,pro,Rapid Earnings Compounding,Compounded profit after tax at 83.4% over 5 years.,90
+SBIN,State Bank of India,con,Accrual Risk,"Operating cash flow is less than half of net profit, indicating working capital lockup.",80
+SHREECEM,Shree Cement Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.08x.,90
+SHREECEM,Shree Cement Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,929 Cr.",90
+SHREECEM,Shree Cement Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+SHREECEM,Shree Cement Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+SHREECEM,Shree Cement Ltd,con,Subdued ROE,Return on equity of 8.4% is below cost of capital.,85
+SHRIRAMFIN,Shriram Finance Ltd,pro,Healthy ROE,Consistent profitability with ROE of 15.1%.,85
+SHRIRAMFIN,Shriram Finance Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 18.6%.,85
+SHRIRAMFIN,Shriram Finance Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 23.5% over 5 years.,90
+SHRIRAMFIN,Shriram Finance Ltd,pro,High Margins,Enjoys robust net profit margin of 20.3%.,85
+SHRIRAMFIN,Shriram Finance Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-31,359 Cr.",90
+SIEMENS,Siemens Ltd,pro,Healthy ROE,Consistent profitability with ROE of 17.7%.,85
+SIEMENS,Siemens Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.02x.,90
+SIEMENS,Siemens Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,168 Cr.",90
+SIEMENS,Siemens Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+SIEMENS,Siemens Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,pro,Healthy ROE,Consistent profitability with ROE of 15.1%.,85
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.05x.,90
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹11,372 Cr.",90
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 24.5% over 5 years.,90
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+TATACONSUM,Tata Consumer Products Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.22x.,90
+TATACONSUM,Tata Consumer Products Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+TATACONSUM,Tata Consumer Products Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 16.0%.,85
+TATACONSUM,Tata Consumer Products Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 21.6% over 5 years.,90
+TATACONSUM,Tata Consumer Products Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+TATACONSUM,Tata Consumer Products Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+TATACONSUM,Tata Consumer Products Ltd,con,Subdued ROE,Return on equity of 7.6% is below cost of capital.,85
+TATAMOTORS,Tata Motors Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 37.5%.,95
+TATAMOTORS,Tata Motors Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹45,133 Cr.",90
+TATAMOTORS,Tata Motors Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+TATAMOTORS,Tata Motors Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.26x requires monitoring.,80
+TATAPOWER,Tata Power Company Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹3,569 Cr.",90
+TATAPOWER,Tata Power Company Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 15.5%.,85
+TATAPOWER,Tata Power Company Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+TATAPOWER,Tata Power Company Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.66x requires monitoring.,80
+TATASTEEL,Tata Steel Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹6,048 Cr.",90
+TATASTEEL,Tata Steel Ltd,con,Operating Losses,Negative return on equity due to operational losses.,95
+TATASTEEL,Tata Steel Ltd,con,Thin Margins,"Net profit margin is low at -2.1%, vulnerable to cost pressures.",85
+TCS,Tata Consultancy Services Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 50.9%.,95
+TCS,Tata Consultancy Services Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.09x.,90
+TCS,Tata Consultancy Services Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹50,429 Cr.",90
+TCS,Tata Consultancy Services Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+TCS,Tata Consultancy Services Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+TECHM,Tech Mahindra Ltd,pro,Low Leverage,Conservative capital structure with D/E of 0.10x.,90
+TECHM,Tech Mahindra Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹5,058 Cr.",90
+TECHM,Tech Mahindra Ltd,pro,Comfortable Debt Servicing,Superb interest coverage ratio indicating negligible solvency risk.,90
+TECHM,Tech Mahindra Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+TECHM,Tech Mahindra Ltd,con,Subdued ROE,Return on equity of 9.0% is below cost of capital.,85
+TECHM,Tech Mahindra Ltd,con,Thin Margins,"Net profit margin is low at 4.6%, vulnerable to cost pressures.",85
+TITAN,Titan Company Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 37.2%.,95
+TITAN,Titan Company Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹1,506 Cr.",90
+TITAN,Titan Company Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 20.9%.,85
+TITAN,Titan Company Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 20.3% over 5 years.,90
+TITAN,Titan Company Ltd,con,Moderate Leverage,Debt-to-equity ratio of 1.65x requires monitoring.,80
+TITAN,Titan Company Ltd,con,Accrual Risk,"Operating cash flow is less than half of net profit, indicating working capital lockup.",80
+TORNTPHARM,Torrent Pharmaceuticals Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 24.1%.,95
+TORNTPHARM,Torrent Pharmaceuticals Ltd,pro,Strong Free Cash Flow,"Generates robust annual free cash flow of ₹3,106 Cr.",90
+TORNTPHARM,Torrent Pharmaceuticals Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 30.6% over 5 years.,90
+TORNTPHARM,Torrent Pharmaceuticals Ltd,pro,High Quality Earnings,Strong cash generation with operating cash flows exceeding reported PAT.,85
+TORNTPHARM,Torrent Pharmaceuticals Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+TRENT,Trent Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 36.3%.,95
+TRENT,Trent Ltd,pro,Positive FCF,Maintains positive free cash flow after meeting capital expenditure.,80
+TRENT,Trent Ltd,pro,High Revenue Growth,Delivered 5-year revenue CAGR of 36.3%.,85
+TRENT,Trent Ltd,pro,Rapid Earnings Compounding,Compounded profit after tax at 73.1% over 5 years.,90
+TRENT,Trent Ltd,con,Valuation Sensitivity,High market expectations may cause volatility upon cyclical slowdowns.,70
+TVSMOTOR,TVS Motor Company Ltd,pro,ROE > 20%,Company has delivered outstanding return on equity of 26.2%.,95
+TVSMOTOR,TVS Motor Company Ltd,con,High Debt,Elevated debt-to-equity ratio of 3.83x exceeds safe threshold.,95
+TVSMOTOR,TVS Motor Company Ltd,con,Negative Free Cash Flow,"Free cash flow is currently negative at ₹-2,254 Cr.",90
+TVSMOTOR,TVS Motor Company Ltd,con,Thin Margins,"Net profit margin is low at 4.5%, vulnerable to cost pressures.",85

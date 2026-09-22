@@ -1,0 +1,6 @@
+company_id,metric,value,z_score,sector,sector_mean,sector_std
+INDIGO,return_on_equity_pct,892.57,3.47,Consumer Discretionary,86.72,232.1
+TVSMOTOR,debt_to_equity,3.83,2.86,Consumer Discretionary,0.7,1.1
+ADANIPOWER,return_on_equity_pct,48.28,2.7,Energy,17.93,11.24
+ADANIGREEN,debt_to_equity,6.6,3.14,Energy,1.46,1.64
+PNB,return_on_equity_pct,61.32,3.25,Financials,19.01,13.02

@@ -1,0 +1,93 @@
+company_id,company_name,broad_sector,cluster_id,cluster_name,distance_from_centroid,return_on_equity_pct,debt_to_equity,revenue_cagr_5yr,operating_profit_margin_pct,composite_score
+ABB,Abbott India Ltd,Industrials,2,Emerging Growth,1.328,32.47,0.02,9.72,24.84,82.2
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,2,Emerging Growth,1.51,9.46,2.93,17.85,34.39,50.3
+ADANIENT,Adani Enterprises Ltd,Industrials,2,Emerging Growth,1.116,8.53,1.67,19.02,11.8,53.4
+ADANIGREEN,Adani Green Energy Ltd,Energy,1,Value Cyclicals,2.748,12.81,6.6,34.98,79.37,31.3
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,Industrials,4,Defensive Dividend,1.212,15.35,0.94,19.58,58.36,65.2
+ADANIPOWER,Adani Power Ltd,Energy,2,Emerging Growth,0.932,48.28,0.8,16.09,36.2,55.6
+AMBUJACEM,Ambuja Cements Ltd,Materials,0,Distressed / High Debt,0.427,11.43,0.02,4.95,19.3,43.3
+APOLLOHOSP,Apollo Hospitals Chain of Indian private hospitals,Healthcare,2,Emerging Growth,0.266,13.48,0.77,14.66,12.56,64.0
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,Materials,2,Emerging Growth,0.631,29.68,0.13,13.03,21.37,73.9
+ATGL,Adani Total Gas Ltd,Energy,2,Emerging Growth,0.954,18.66,0.43,21.09,24.67,66.9
+AXISBANK,Axis Bank Ltd,Financials,1,Value Cyclicals,0.936,15.83,8.25,14.74,34.69,52.1
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,2,Emerging Growth,0.988,26.61,0.07,8.13,19.53,57.8
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,1,Value Cyclicals,1.056,25.85,4.79,20.97,37.04,52.2
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,4,Defensive Dividend,2.593,13.58,0.0,31.61,91.77,70.4
+BAJFINANCE,Bajaj Finance Ltd,Financials,1,Value Cyclicals,1.697,18.84,3.82,24.35,29.29,58.1
+BANKBARODA,Bank of Baroda,Financials,1,Value Cyclicals,1.823,15.76,12.14,17.48,37.49,50.7
+BEL,Bharat Electronics Ltd,Industrials,3,High-Quality Growth,0.878,4744.05,0.51,10.75,24.92,73.5
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,4,Defensive Dividend,1.277,10.36,2.61,13.17,52.2,57.6
+BHEL,Bharat Heavy Electricals Limited,Industrials,0,Distressed / High Debt,2.698,1.15,0.36,-4.73,2.98,9.6
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,0,Distressed / High Debt,0.929,20.64,0.0,6.72,12.52,53.5
+BPCL,Bharat Petroleum Corporation Ltd,Energy,2,Emerging Growth,0.974,35.51,0.72,8.48,9.84,71.4
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,2,Emerging Growth,0.783,54.15,0.52,8.69,18.89,65.2
+CANBK,Canara Bank,Financials,1,Value Cyclicals,2.754,16.72,14.87,18.18,41.75,57.4
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,1,Value Cyclicals,0.995,17.46,6.86,21.94,28.1,54.6
+CIPLA,Cipla Ltd,Healthcare,4,Defensive Dividend,0.992,15.55,0.02,9.51,75.59,71.8
+COALINDIA,Coal India Ltd,Materials,4,Defensive Dividend,1.533,45.17,0.08,7.4,66.29,77.6
+DABUR,Dabur India Ltd,Consumer Staples,0,Distressed / High Debt,0.514,18.36,0.14,7.81,19.35,47.7
+DIVISLAB,Divis Laboratories Ltd,Healthcare,0,Distressed / High Debt,0.688,11.79,0.0,9.66,28.17,47.7
+DLF,DLF Ltd,Real Estate,0,Distressed / High Debt,1.912,6.91,0.12,-5.14,33.05,52.2
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,2,Emerging Growth,0.943,13.56,0.03,20.48,8.08,67.3
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,2,Emerging Growth,0.685,19.74,0.07,12.64,28.32,72.9
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,2,Emerging Growth,0.561,22.17,0.02,11.04,26.18,63.6
+GAIL,GAIL (India) Ltd,Energy,0,Distressed / High Debt,0.926,12.86,0.28,11.83,10.74,48.9
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,0,Distressed / High Debt,1.796,-4.45,0.26,6.45,20.98,13.6
+GRASIM,Grasim Industries Ltd,Industrials,0,Distressed / High Debt,0.823,11.2,1.55,11.15,20.76,48.9
+HAL,Hindustan Aeronautics Ltd,Industrials,3,High-Quality Growth,0.878,3816.58,0.62,8.71,32.09,86.8
+HAVELLS,Havells India Ltd,Industrials,2,Emerging Growth,0.837,17.07,0.04,13.04,10.12,53.7
+HCLTECH,HCL Technologies Ltd,Information Technology,2,Emerging Growth,0.515,23.01,0.08,12.71,22.02,58.5
+HDFCBANK,HDFC Bank Ltd,Financials,1,Value Cyclicals,0.764,14.34,6.81,21.95,61.41,59.2
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,4,Defensive Dividend,1.341,10.73,0.06,21.17,99.48,53.2
+HEROMOTOCO,Hero MotoCorp Ltd,Consumer Discretionary,4,Defensive Dividend,1.765,21.14,0.03,2.15,86.15,49.2
+HINDALCO,Hindalco Industries Ltd,Materials,4,Defensive Dividend,0.528,9.57,0.53,10.59,88.95,59.1
+HINDUNILVR,Hindustan Unilever Ltd,Consumer Staples,4,Defensive Dividend,0.671,20.07,0.03,9.5,76.32,63.5
+ICICIBANK,ICICI Bank Ltd,Financials,1,Value Cyclicals,1.106,17.99,6.45,17.25,62.41,65.9
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,4,Defensive Dividend,0.543,15.72,0.0,12.91,87.42,66.6
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,4,Defensive Dividend,1.536,7.73,0.11,16.85,102.03,41.6
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,4,Defensive Dividend,2.5,892.57,0.02,19.31,76.3,90.3
+INDUSINDBK,IndusInd Bank Ltd,Financials,1,Value Cyclicals,0.745,14.25,6.89,15.5,38.55,47.2
+INFY,Infosys Ltd,Information Technology,2,Emerging Growth,0.273,29.79,0.09,13.2,23.7,64.7
+IOC,Indian Oil Corporation,Energy,2,Emerging Growth,0.952,23.53,0.72,8.01,9.74,62.6
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,2,Emerging Growth,1.553,34.4,0.02,17.96,34.33,85.5
+IRFC,Indian Railway Finance Corporation Ltd,Financials,1,Value Cyclicals,1.886,13.04,8.38,19.07,99.5,60.5
+ITC,ITC Ltd,Consumer Staples,2,Emerging Growth,1.12,27.85,0.0,7.95,37.02,64.1
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,0,Distressed / High Debt,1.109,13.41,0.37,1.4,20.26,29.0
+JIOFIN,Jio Financial Services Ltd,Financials,4,Defensive Dividend,1.835,1.15,0.0,,84.04,33.1
+JSWENERGY,JSW Energy Ltd,Energy,0,Distressed / High Debt,1.17,8.28,1.52,4.68,46.86,48.4
+JSWSTEEL,JSW Steel Ltd,Materials,0,Distressed / High Debt,1.278,11.55,1.13,15.6,16.09,33.3
+KOTAKBANK,Kotak Mahindra Bank Ltd,Financials,4,Defensive Dividend,1.227,14.01,4.0,13.52,83.67,55.7
+LICI,Life Insurance Corporation of India,Financials,2,Emerging Growth,1.177,49.45,0.0,8.16,3.87,73.9
+LODHA,Macrotech Developers Ltd,Real Estate,0,Distressed / High Debt,1.604,8.9,0.44,-2.83,25.83,28.4
+LT,Larsen & Toubro Ltd,Industrials,2,Emerging Growth,0.605,77.67,0.1,10.34,13.51,63.9
+LTIM,LTIMindtree Ltd,Information Technology,2,Emerging Growth,2.29,22.9,0.1,30.33,17.98,75.2
+M&M,Mahindra & Mahindra Ltd,Consumer Discretionary,0,Distressed / High Debt,0.391,18.54,1.64,5.84,17.9,42.1
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,2,Emerging Growth,0.848,15.75,0.0,10.51,13.13,55.7
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,0,Distressed / High Debt,0.52,11.55,0.76,9.21,9.45,43.1
+NAUKRI,Info Edge (India) Ltd,Communication Services,0,Distressed / High Debt,1.425,1.97,0.01,17.12,28.04,38.7
+NESTLEIND,Nestle India Ltd,Consumer Staples,2,Emerging Growth,0.972,117.75,0.1,14.55,23.83,79.2
+NHPC,NHPC Ltd,Energy,0,Distressed / High Debt,1.377,10.41,0.84,1.4,49.91,46.2
+NTPC,NTPC Ltd,Energy,0,Distressed / High Debt,0.876,13.27,1.48,12.22,28.83,46.0
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,0,Distressed / High Debt,0.777,16.94,0.45,7.0,17.39,52.3
+PFC,Power Finance Corporation Ltd,Financials,1,Value Cyclicals,1.373,26.16,8.52,11.08,36.69,44.7
+PIDILITIND,Pidilite Industries Ltd,Materials,2,Emerging Growth,0.441,20.78,0.05,11.84,21.87,61.9
+PNB,Punjab National Bank,Financials,1,Value Cyclicals,1.736,61.32,3.68,15.9,63.67,35.4
+POWERGRID,Power Grid Corporation of India Ltd,Energy,4,Defensive Dividend,1.329,17.87,1.42,5.51,86.87,50.8
+RECLTD,REC Ltd,Financials,1,Value Cyclicals,1.975,20.4,6.42,13.34,100.77,48.3
+RELIANCE,Reliance Industries Ltd,Energy,0,Distressed / High Debt,0.811,9.96,0.58,9.61,18.07,51.8
+SBILIFE,SBI Life Insurance Company Ltd,Financials,2,Emerging Growth,1.85,12.7,0.0,24.23,0.19,48.9
+SBIN,State Bank of India,Financials,2,Emerging Growth,1.45,,,11.63,-13.73,53.6
+SHREECEM,Shree Cement Ltd,Materials,0,Distressed / High Debt,0.818,8.37,0.08,10.33,22.02,50.6
+SHRIRAMFIN,Shriram Finance Ltd,Financials,1,Value Cyclicals,1.425,15.12,3.99,18.56,28.92,49.7
+SIEMENS,Siemens Ltd,Industrials,2,Emerging Growth,0.493,17.7,0.02,11.19,13.96,64.2
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,2,Emerging Growth,0.682,15.09,0.05,10.78,26.84,70.1
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,2,Emerging Growth,0.276,7.57,0.22,15.96,15.02,63.8
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,0,Distressed / High Debt,0.386,37.46,1.26,7.72,13.6,43.8
+TATAPOWER,Tata Power Company Ltd,Energy,2,Emerging Growth,1.14,13.23,1.66,15.51,17.47,49.2
+TATASTEEL,Tata Steel Ltd,Materials,0,Distressed / High Debt,1.617,-5.33,0.95,7.77,9.71,17.0
+TCS,Tata Consultancy Services Ltd,Information Technology,2,Emerging Growth,0.625,50.94,0.09,10.46,26.69,65.2
+TECHM,Tech Mahindra Ltd,Information Technology,0,Distressed / High Debt,0.579,8.99,0.1,8.4,8.67,36.8
+TITAN,Titan Company Ltd,Consumer Discretionary,2,Emerging Growth,1.073,37.22,1.65,20.9,10.36,69.1
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,2,Emerging Growth,1.154,24.15,0.59,6.93,31.39,68.9
+TRENT,Trent Ltd,Consumer Discretionary,2,Emerging Growth,3.133,36.31,0.43,36.31,15.93,78.3
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,0,Distressed / High Debt,1.512,26.22,3.83,14.19,14.05,45.4

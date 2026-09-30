@@ -1,0 +1,57 @@
+{
+  "info": {
+    "name": "Nifty 100 Financial Intelligence API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/health"
+      }
+    },
+    {
+      "name": "List Companies",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies"
+      }
+    },
+    {
+      "name": "Company Profile (TCS)",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS"
+      }
+    },
+    {
+      "name": "Company Ratios (TCS)",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/companies/TCS/ratios"
+      }
+    },
+    {
+      "name": "Quality Screener",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/screener?min_roe=15&max_de=1"
+      }
+    },
+    {
+      "name": "Sectors Summary",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/sectors"
+      }
+    },
+    {
+      "name": "Portfolio Stats",
+      "request": {
+        "method": "GET",
+        "url": "http://localhost:8000/api/v1/portfolio/stats"
+      }
+    }
+  ]
+}
